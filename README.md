@@ -11,7 +11,7 @@ Git 연습을 위한 저장소
 
 ### Node.js 설치하기
 
-my-app 폴더를 만들고 VScode로 폴더열기
+my-app 폴더를 만들고 VScode로 폴더열기!!
 
 ```bash
 mkdir my-app
