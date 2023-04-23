@@ -1,13 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-
-function App() {
-	return (
-		<div>
-   hello world!
-		</div>
-	);
-}
+import App from './app';
 
 function main() {
 	const element = document.getElementById('root');
@@ -18,7 +11,7 @@ function main() {
 
 	const root = ReactDOM.createRoot(element);
 
-	root.render((<App />));
+	root.render(<App />);
 }
 
 main();
