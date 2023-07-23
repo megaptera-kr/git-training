@@ -2,4 +2,4 @@
 
 Git 연습을 위한 저장소
 
-git-graining test
+git-graining test !
